@@ -22,7 +22,6 @@ C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.TagHelpers.input.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.TagHelpers.output.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.RazorCoreGenerate.cache
-C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -37,3 +36,4 @@ C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.pdb
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.genruntimeconfig.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.csproj.CopyComplete
+C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\Index2.cshtml.g.cs

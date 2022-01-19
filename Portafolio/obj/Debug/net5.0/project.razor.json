@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index2.cshtml",
+      "TargetPath": "Views\\Home\\Index2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15646,11 +15651,6 @@
     {
       "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
