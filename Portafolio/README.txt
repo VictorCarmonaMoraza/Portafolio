@@ -1,4 +1,7 @@
-﻿6 - Colocando una imagen en la vista
+﻿7 - CSS, Cache y Tag Helpers
 
-Hemos modificado la vista principal para que aparezca mi imagen y
-las tecnologias en las cual estoy especializado.
+Hemos agregado un borde nuevo a nuestra fotografia y en el archivo _layout hemos puesto
+asp-append-version="true" que recargara los archivos css si han tenido cambios.
+
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/personalizado.css" asp-append-version="true" />
