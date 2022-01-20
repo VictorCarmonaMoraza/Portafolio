@@ -36,3 +36,6 @@ C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.pdb
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.genruntimeconfig.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.csproj.CopyComplete
+C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\_Presentacion.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\_Habilidades.cshtml.g.cs

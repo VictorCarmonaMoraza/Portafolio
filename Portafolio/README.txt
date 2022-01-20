@@ -1,6 +1,12 @@
-﻿14 - Instalando Iconos de Bootstrap
+﻿15 - Vistas Parciales
 
-Pegamos este link en layout para tener acceso a los iconos de bootstrap
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+Los elementos compartidos se colocan con guion bajo _Presentacion, no es obligatorio pero es una 
+convención.
+Como solo lo vamos a utilizar en el home lo colocamos en la carpeta home, pero si queremos compartirlo
+a nivel de aplicacion lo colocamos en la carpeta shared.
 
-Hemos agregado iconos de bootstrap a nuestro portafolio, hemos modificado estilos css
+Para llamar a nuestras vistas en la vista index la llamamos con la siguiente sintaxis:
+
+	<partial name="_Presentacion"/>
+
+	<partial name="_Habilidades" />
