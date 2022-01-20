@@ -1,4 +1,4 @@
-﻿8 - ViewBag - Pasando Datos del Controlador a la Vista
+﻿9 - Modelos Fuertemenete Tipados
 
-
-Con ViewBag pasamos datos desde el controlador a la vista
+Aqui hemos hecho otra manera de enviar datos desde la vista al controlador indicandole que
+lo que le vamos a pasar va aa ser un string
