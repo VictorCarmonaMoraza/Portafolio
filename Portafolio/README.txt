@@ -1,3 +1,5 @@
-﻿10 - Recibiendo dos datos del controlador
+﻿11 - Explorando Razor
 
-Hemos visto con la creacion de un modelo llamado Persona como pasar valores a la vista.
+El singo @ en el HTML delante de cualquier codigo es lo que se llama sintaxis Razor.
+
+Se ha agregado muchas opciones de crear variables mas codigo de Razor

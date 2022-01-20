@@ -23,7 +23,7 @@ namespace Portafolio.Controllers
             var persona = new Persona()
             {
                 Nombre = "Victor V",
-                Edad = 99
+                Edad = 15
             };
             return View(persona);
         }
