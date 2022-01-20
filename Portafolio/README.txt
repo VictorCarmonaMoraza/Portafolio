@@ -1,7 +1,4 @@
-﻿7 - CSS, Cache y Tag Helpers
+﻿8 - ViewBag - Pasando Datos del Controlador a la Vista
 
-Hemos agregado un borde nuevo a nuestra fotografia y en el archivo _layout hemos puesto
-asp-append-version="true" que recargara los archivos css si han tenido cambios.
 
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-<link rel="stylesheet" href="~/css/personalizado.css" asp-append-version="true" />
+Con ViewBag pasamos datos desde el controlador a la vista
