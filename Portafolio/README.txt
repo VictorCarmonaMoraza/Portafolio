@@ -1,4 +1,4 @@
-﻿12 - Agregando nuestra descripcion
+﻿13 - Agregando nuestras habilidades
 
-Agregamos una descripcion de todo lo que hemos hecho en nuestra vida profesional como desarrollador
-y agregamos estilos para nuestro documento.
+
+Hemos agregado nuestras habilidades y hemos dado un poco de estilo al proyecto

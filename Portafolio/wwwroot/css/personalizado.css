@@ -6,7 +6,7 @@
 }
 
 .seccion-bienvenida {
-    margin: 5rem 0 10 rem 0;
+    margin: 5rem 0 10rem 0;
     color: white;
 }
 
@@ -22,4 +22,14 @@
 
 #imagen-net{
     width: 400px;
+}
+
+.cabecera{
+    font-weight:bold;
+}
+
+.habilidades ul {
+    /*quita los puntos del listado*/
+    list-style: none;
+    padding-left: 0;
 }
