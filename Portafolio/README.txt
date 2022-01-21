@@ -1,7 +1,5 @@
-﻿19 - Inyección de Dependencias
+﻿20 - Inyección de Dependencias con Interfaces
 
-Conla inyeccion de dependencias delegamos la responsabilidad de la instanciación de nuestras
-clases a otras clases.
-
-Las inyeccion de dependencias se hace a traves del constructor de la clase.
+La creacion de la interfaz para pedir instancias de clases se denomina principio de inyección 
+de dependencias.
 

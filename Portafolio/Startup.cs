@@ -1,14 +1,10 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Portafolio.Interfaces;
 using Portafolio.Servicios;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Portafolio
 {
@@ -25,7 +21,9 @@ namespace Portafolio
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddTransient<RepositorioProyectos>();
+            //Con esto decimos que cuando se pida un IRepositorioProyectos se le va a enviar una 
+            //instancia de RepositorioProyectos
+            services.AddTransient<IRepositorioProyectos, RepositorioProyectos>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Portafolio.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace Portafolio.Servicios
 {
-    public class RepositorioProyectos
+    public class RepositorioProyectos: IRepositorioProyectos
     {
         public List<Proyecto> ObtenerProyectos()
         {
