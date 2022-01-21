@@ -1,6 +1,8 @@
-﻿21 - Servicios
+﻿22 - ILogger
 
-AddTransient ----> Servicios transitorios
+Es un servicio preconfigurado que nos permite escribir mensajes en Logs en tiempo de ejecución.
 
-Podemos ver la representacion de los distinto servicios que podemos crear.
+"Portafolio.Controllers.HomeController": "Error", --->mostrara las mensajes de error del controlador HomeController
+
+"Portafolio.Controllers": "Error",  --->Mostrara los mensajes de error de todos los controladores
 

@@ -24,10 +24,6 @@ namespace Portafolio
             //Con esto decimos que cuando se pida un IRepositorioProyectos se le va a enviar una 
             //instancia de RepositorioProyectos
             services.AddTransient<IRepositorioProyectos, RepositorioProyectos>();
-
-            services.AddTransient<ServicioTransitorio>();
-            services.AddScoped<ServicioDelimitado>();
-            services.AddSingleton<ServicioUnico>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
