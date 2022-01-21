@@ -1,3 +1,2 @@
-﻿16 - Listado de Proyectos
+﻿17 - Pasando Datos a una Vista Parcial
 
-Aqui agregamos con los proyectos que trabajamos y las vistas que tienen

@@ -15659,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+      "TargetPath": "Views\\Home\\_SeccionProyectos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
