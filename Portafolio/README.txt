@@ -1,5 +1,6 @@
-﻿20 - Inyección de Dependencias con Interfaces
+﻿21 - Servicios
 
-La creacion de la interfaz para pedir instancias de clases se denomina principio de inyección 
-de dependencias.
+AddTransient ----> Servicios transitorios
+
+Podemos ver la representacion de los distinto servicios que podemos crear.
 
