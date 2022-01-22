@@ -9,7 +9,6 @@ C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\bin\Debug
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\bin\Debug\net5.0\Portafolio.pdb
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\bin\Debug\net5.0\Portafolio.Views.dll
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\bin\Debug\net5.0\Portafolio.Views.pdb
-C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.csproj.AssemblyReference.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.AssemblyInfoInputs.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.AssemblyInfo.cs
@@ -24,7 +23,9 @@ C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Portafolio.RazorCoreGenerate.cache
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\Proyectos.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\_Habilidades.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\_ListadoProyectos.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\_Presentacion.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Home\_SeccionProyectos.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\Portafolio\Portafolio\Portafolio\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs

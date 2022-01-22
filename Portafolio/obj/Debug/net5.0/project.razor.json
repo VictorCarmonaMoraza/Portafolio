@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+      "TargetPath": "Views\\Home\\Proyectos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15661,6 +15666,11 @@
     {
       "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
       "TargetPath": "Views\\Home\\_SeccionProyectos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Victo\\Desktop\\Proyectos 2022\\Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+      "TargetPath": "Views\\Home\\_ListadoProyectos.cshtml",
       "FileKind": "mvc"
     },
     {
