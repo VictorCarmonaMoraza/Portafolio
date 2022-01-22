@@ -1,8 +1,28 @@
-﻿22 - ILogger
+﻿23 - Proveedores de Configuracion
 
-Es un servicio preconfigurado que nos permite escribir mensajes en Logs en tiempo de ejecución.
+Para cambiar de desarrrollo a produccion podemos cambiar en el archivo que se encuentra en la
+carpeta Properties el archivo  launchSettings.json
 
-"Portafolio.Controllers.HomeController": "Error", --->mostrara las mensajes de error del controlador HomeController
+"profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
 
-"Portafolio.Controllers": "Error",  --->Mostrara los mensajes de error de todos los controladores
+    cambiamos por:
+
+"profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    },
+
+
+
 
