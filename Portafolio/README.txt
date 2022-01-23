@@ -1,5 +1,6 @@
-﻿26 - HTTP POST - Posteando el Formulario
+﻿27 - Patrón POST-Redirección-GET
 
-Se ha creado la clase con los campos con la que mapear los campos del formulario
+Modificaremos el Post para que despues de un redireccionamiento exitoso
+no lleve a un metodo Get.
 
 
